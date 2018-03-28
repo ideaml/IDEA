@@ -1,0 +1,12 @@
+firstName
+MiddleName
+FamilyName
+PreferredName
+Gender
+DataOfBirth
+PlaceOfBirth
+MotherTongue
+Nationality1
+Nationality2
+PassportNumber
+YearLevel
